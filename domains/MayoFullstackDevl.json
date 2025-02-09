@@ -1,0 +1,11 @@
+{
+    "description": "VDO.Ninja project website.",
+    "owner": {
+        "username": "DevFullStck",
+        "email": "saokotoko.soki@gmail.com"
+    },
+    "record": {
+        "CNAME": "DevFullStck.github.io"
+    },
+    "proxy": false
+}
